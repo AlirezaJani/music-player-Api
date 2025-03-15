@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sange Ghabre Arezoo",
+    "url": "https://dl.sevilmusics.com/cdn/music/srvr/Artoosh%20-%20Sange%20Ghabre%20Arezoo%20[SevilMusic].mp3",
+    "avatar": "https://sevilmusics.com/wp-content/uploads/2022/11/Artoosh-Sange-Ghabre-Arezoo.jpg",
+    "author": "Artoosh",
+    "time": "4:19",
+    "id": "1"
+  },
+  {
+    "name": "Dasteye To",
+    "url": "https://dl.taraneha.net/1402/09/15/Dariush%20Eghbali%20-%20Dastaye%20To%20(128).mp3",
+    "avatar": "https://taraneha.net/wp-content/uploads/2023/12/Dariush-Eghbali-Dastaye-To.jpg",
+    "author": "Dariush ",
+    "time": "3:32",
+    "id": "2"
+  },
+  {
+    "name": "Koohe Yakh",
+    "url": "https://dlrooz.musitraf.com/Music/A/F/Ebi-kooheyakh/02%20-%20Koohe%20Yakh.mp3",
+    "avatar": "https://sahand-music.ir/photos/2000/4/32891.webp",
+    "author": "Ebi",
+    "time": "5:20",
+    "id": "3"
+  },
+  {
+    "name": "Gole Yakh",
+    "url": "https://dlrooz.musitraf.com/2024/music/2/new/Kourosh%20Yaghmaei%20-%20Gole%20Yakh.mp3",
+    "avatar": "https://musics-fa.com/wp-content/uploads/2018/12/K-yaghmaei984256923856139856139856398563298.jpg",
+    "author": "Kourosh Yaghmaei",
+    "time": "5:14",
+    "id": "4"
+  },
+  {
+    "name": "Del Asire",
+    "url": "https://ts15.tarafdari.com/contents/user791178/content-sound/faramarz_aslani_-_be_man_begoo_bi_vafa_320.mp3",
+    "avatar": "https://ts15.tarafdari.com/contents/user791178/content-sound/faramarz-aslani-midoni-del-asire-musico.ir_.jpg",
+    "author": "Faramarz Aslani",
+    "time": "3:07",
+    "id": "5"
+  },
+  {
+    "name": "Poost Shir",
+    "url": "https://ts17.tarafdari.com/contents/user887956/content-sound/ebi_-_pooste_shir.mp3",
+    "avatar": "https://ts17.tarafdari.com/contents/user887956/content-sound/ebi-1920-1254_750x750_acf_cropped-1.jpg",
+    "author": "Ebi",
+    "time": "3:03",
+    "id": "6"
+  },
+  {
+    "name": "Yavare Hamishe Momen",
+    "url": "https://dl.yekmusic.com/Song/Yavare%20Hamishe%20Momen%20(320).mp3",
+    "avatar": "https://ts17.tarafdari.com/contents/user9694/content-sound/drywsh_ywr_hmyshh_mwmn.jpg",
+    "author": "Dariush",
+    "time": "8:00",
+    "id": "7"
+  },
+  {
+    "name": "To Dar Masafate Barani",
+    "url": "https://dl.rozmusic.com/Music/1397/06/11/Mohsen%20Chavoshi%20-%20To%20Dar%20Masafate%20Barani%20(128).mp3",
+    "avatar": "https://rozmusic.com/wp-content/uploads/2018/09/Mohsen-Chavoshi-To-Dar-Masafate-Barani.jpg",
+    "author": "Mohsen Chavoshi ",
+    "time": "3:40",
+    "id": "8"
+  },
+  {
+    "name": "Setare Donbaledar",
+    "url": "https://ts11.tarafdari.com/contents/user791933/content-sound/bayad_to_ro_peyda_konam_shayad_hanoz_dir_nist_2.mp3",
+    "avatar": "https://musicrooz.com/wp-content/uploads/2022/03/%D8%A7%D8%A8%DB%8C-2.jpg",
+    "author": "Ebi ",
+    "time": "4:41",
+    "id": "9"
+  },
+  {
+    "name": "Hamsafar ",
+    "url": "https://xx.sahand-music.ir/Archive/S/Sattar/Sattar%20-%20Hamsafar/08%20Hamsafar.mp3",
+    "avatar": "https://sahand-music.ir/photos/2000/7/27894.webp",
+    "author": "Sattar",
+    "time": "4:14",
+    "id": "10"
+  },
+  {
+    "name": " Ey Darigha",
+    "url": "https://xx.sahand-music.ir/Archive/S/Sattar/Sattar%20-%20Hamsafar/08%20Hamsafar.mp3",
+    "avatar": "https://musics-fa.com/wp-content/uploads/2022/10/Mohsen-Chavoshi-And-Sina-Sarlak-Ey-Darigha-Music-fa.com_.jpg",
+    "author": " Mohsen Chavoshi",
+    "time": "4:27",
+    "id": "11"
+  },
+  {
+    "name": "Age Ye Rooz",
+    "url": "https://ts13.tarafdari.com/contents/user780327/content-sound/age_yerooz_www.nakaman.ir_.mp3",
+    "avatar": "https://ts13.tarafdari.com/contents/user780327/content-sound/faramarz-aslani-age-ye-rooz.jpg",
+    "author": "Faramarz Aslani",
+    "time": "3:54",
+    "id": "12"
+  },
+  {
+    "name": "Eshgh Man",
+    "url": "https://irsv.upmusics.com/dlw/Eshgh%20Man%20Mano%20Seda%20Kon%20(320).mp3",
+    "avatar": "https://musicsweb.ir/wp-content/uploads/2025/01/Unknown20Artist20-20Eshghe20Man.jpg",
+    "author": "Moein",
+    "time": "4:14",
+    "id": "13"
+  },
+  {
+    "name": "tanhaye Tanha",
+    "url": "https://dlrrooz.top/Music/A/E/Shohreh-khatereh7/02%20-%20Tanhaye%20Tanha.mp3",
+    "avatar": "https://musicrooz.com/wp-content/uploads/2023/08/Moein-Shohreh-Khatereh-7-II-MuhamaMusic.jpg",
+    "author": "Moein ",
+    "time": "5:54",
+    "id": "14"
+  },
+  {
+    "name": "Khaali",
+    "url": "https://mehrdl.musitraf.com/Music/A/F/Ebi-shabzadeh/08%20-%20Khaali.mp3",
+    "avatar": "https://music-mehr.com/wp-content/uploads/2023/08/Ebi-Shabzade.jpg.webp",
+    "author": "Ebi",
+    "time": "5:05",
+    "id": "15"
+  }
+]

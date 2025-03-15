@@ -1,0 +1,8 @@
+
+.icon-heart-empty:before { content: '\e800'; } /* '' */
+.icon-cw:before { content: '\e803'; } /* '' */
+.icon-shuffle:before { content: '\e804'; } /* '' */
+.icon-fast-fw:before { content: '\e805'; } /* '' */
+.icon-fast-bw:before { content: '\e806'; } /* '' */
+.icon-play:before { content: '\e807'; } /* '' */
+.icon-download:before { content: '\e808'; } /* '' */
